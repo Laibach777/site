@@ -370,6 +370,9 @@
                 Seems folly if in given scale. Sex contented dependent conveying advantage can use. </p>
 <a class="podrobnee">Подробнее</a>
 
+            <p>rtr</p>
+
+
             <div class="col-md-12 komanda">
                 <h4>Наша команда</h4>
                 <div class="col-md-4 info-sotrudnik"><img src="img/one.jpg" alt="..." class="img-circle photo" width="55" height="55">
