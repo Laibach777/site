@@ -1,0 +1,380 @@
+#top{
+    
+    
+    background: url("../img/book.jpg") center;
+    background-size: cover;
+    height: 100vh;
+    min-height: 650px;
+    min-width: 280px;
+}
+
+#top .sizeMin{
+
+    display: none;
+
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
+#top .menu{
+    background-color: #0C0F18;
+
+}
+
+#top .menu .phone{
+   margin-top: 100px;
+text-align: right;
+    list-style-type: none;
+    color: #fff;
+margin-bottom: 70px;
+}
+
+.glyphicon-earphone{
+
+    margin-right: 10px;
+}
+
+
+#top .menu h2{
+text-transform: uppercase;
+color: #AEB373 ;
+font-weight: 700;
+  text-align: right;
+margin: 50px 30px 0 0;
+}
+
+#top .menu .groupLogo{
+    text-transform: uppercase;
+    color: #fff ;
+    font-weight: 700;
+    text-align: right;
+    font-size: 20px;
+    margin:0 30px 0 0;
+}
+
+
+#top .menu .menuList{
+
+text-align: right;
+    list-style-type: none;
+text-transform: uppercase;
+    font-weight: 700;
+    color: #fff ;
+    margin: 100px 30px 0 50px;
+    padding: 0;
+}
+
+#top .menu .menuList li{
+
+    margin-top: 30px;
+
+}
+
+
+#top .menu .menuList li a{
+
+
+    color: #fff;
+}
+
+
+
+#top .logo h1{
+font-weight: 700;
+color: #AEB373;
+margin: 200px 0 30px 50px;
+}
+
+#top .logo p{
+    color: #ffffff;
+    font-weight: 700;
+    margin: 0 0 0 50px;
+}
+
+#top .logo .tellMy{
+
+   background-color: #BAC161;
+padding: 15px ;
+    border: none;
+color: #000;
+    font-weight: 700;
+    border-radius: inherit;
+    margin: 50px 0 0 50px;
+
+
+}
+
+#top .topBaner{
+
+    background-color: #1b6d85;
+height: auto;
+}
+
+/* -------------------------------CONTENT------------------------------- */
+
+#content {
+
+background-color: #E0E0E0;
+    min-width: 300px;
+}
+
+#content h3{
+
+    text-transform: uppercase;
+    font-size: 23px ;
+font-weight: 700;
+    margin-bottom: 25px;
+}
+
+
+#content .content .info-row .info .iconca{
+
+    float: left;
+
+    font-size: 30px;
+margin-bottom: 100%;
+    margin-right: 10px;
+}
+
+ #content .content .info-row .info{
+
+     padding: 0;
+
+
+ }
+
+/* -------------------------------company------------------------------- */
+
+
+#company{
+
+background-color: #E9E9E9;
+    min-width: 300px;
+}
+
+
+ #company .komanda{
+
+     padding: 0;
+ }
+#company .photo{
+
+    float: left;
+}
+#company .info-sotrudnik{
+
+    min-height: 70px ;
+}
+
+#company .form{
+
+    border: 1px solid #D7D7D7;
+
+}
+
+#company .form-control{
+
+margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+
+#company .form{
+
+    background: url("../img/background-form.png") center;
+
+    height: auto;
+}
+
+
+#company .form-group .text{
+
+width: 415px;
+height: 100px ;
+}
+
+
+#company .btn-default{
+
+    background-color: #BAC161;
+    font-weight: 800;
+    text-transform: uppercase;
+margin: 20px 0 50px 10px;
+    border: none;
+    padding: 10px;
+    color: #000;
+}
+
+#company h3{
+
+    text-transform: uppercase;
+font-weight: 700;
+}
+
+
+#company .pZag{
+text-transform: uppercase;
+    font-weight: 700;
+}
+
+#company a.podrobnee{
+
+    margin-top: 30px;
+    color: #D3D7B6;
+    text-decoration: underline;
+
+}
+
+
+#company .textCompany{
+
+    margin-bottom: 20px;
+
+
+}
+/* -------------------------------@media------------------------------- */
+
+#company .komanda{
+
+    margin-top: 30px;
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+    #content .content .info-row .info a{
+
+        margin: 40px;
+    }
+
+    #content .content .info-row .info{
+
+        margin-bottom: 50px;
+
+    }
+
+
+    #company .form-group .text{
+
+        width: 352px;
+        height: 100px ;
+
+    }
+    #company .form-group .form-control.input{
+
+        width: 164px;
+
+    }
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+
+    #top .menu{
+        max-width: 230px;
+        float: left;
+    }
+    #top .logo h1{
+        font-size: 30px;
+        margin: 200px 0 30px 250px;
+    }
+
+    #top .logo p{
+        margin:0 0 0 250px;
+
+    }
+
+
+
+    #content  .icons{
+
+        font-size: 40px;
+        float: none;
+margin-bottom: 0;
+    }
+
+
+    #content .content .info-row .info a{
+
+        margin: 0;
+    }
+
+
+    #content .content .info-row .info .iconca{
+
+
+        margin-bottom: 0;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+
+    #top .menu
+    {display: none}
+
+#top .sizeMin{
+
+    display: block;  }
+
+    #top .logo h1{
+
+       text-align: center;
+        margin: 150px 0 0 0;
+    }
+
+    #top .logo p{
+
+        text-align: center;
+        margin: 15px 0 0 0;
+    }
+    .section-btn{
+        text-align: center;
+
+    }
+
+    #top .logo .tellMy{
+        margin: 15px 0 0 0;
+    }
+
+
+    #content .content .info-row .info .iconca{
+
+        float: none;
+
+        font-size: 30px;
+        margin-bottom: 0;
+        margin-right: 10px;
+    }
+
+
+
+}
+
+@media only screen and (max-width : 600px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
