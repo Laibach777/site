@@ -370,7 +370,8 @@
                 Seems folly if in given scale. Sex contented dependent conveying advantage can use. </p>
 <a class="podrobnee">Подробнее</a>
 
-            <p>rtr</p>
+       <p> Fat weddings servants but man believed prospect. Companions understood is as especially pianoforte connection introduced.
+           Nay newspaper can sportsman are admitting gentleman belonging his. Is oppose no he summer lovers twenty in. Not his difficult</p>
 
 
             <div class="col-md-12 komanda">
